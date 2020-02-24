@@ -6,7 +6,6 @@
 * [Data Description](#data-description)
 * [What is the analysis about](#what-is-the-analysis-about)
 * [Data, Code and Report](#data,-code-and-report)
-* [Code Sample](#code-sample)
 * [Recommendation](#recommendation)
 
 ## About
@@ -22,17 +21,7 @@ The following analysis were made to come out with the recommendation for improve
 * Preference of customer of brand based on price reduction flag, display etc
 
 ## Data, Code and Report
-The data used for the analysis can be found [here](). The code can be found [here](). 
-Complete interpretation can found in the [report]()
-
-## Code Sample
-The analysis was performed in SAS.
-
-````
-
-
-
-````
+The data used for the analysis, code and the complete interpretations of the output of the analysis can be found [here](https://github.com/ShilpaPBhat/Customer-Segmentation---SAS/tree/master/data_code_report)
 
 ## Recommendation
 Oral-B is the market leader and the tough competitor for Colgate compared to any other brand. To be the market leader Colgate must battle with Oral-B for new market shares
